@@ -1,5 +1,6 @@
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Python==3.9
+flask==2.1.3
 gunicorn==20.1.0
-numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/
+numpy
 pandas==1.4.4
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pickle5
