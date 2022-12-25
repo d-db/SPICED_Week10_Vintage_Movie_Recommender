@@ -4,7 +4,7 @@
 
 Aim of the project was to use the the [MovieLense dataset](https://grouplens.org/datasets/movielens/) in order to build a 'Recommender System' based on collaborative filtering with 'Non-negative matrix factorization'. The EDA of the dataset as well as the calculation of the matrix can be found in the Jupiter notebooks at './jupyter_notebooks/'.
 
-The final model has then be embedded into a Flask app and deployed online at render.com: [Click here to check out the web-version](https://vintage-movie-recommender.onrender.com).
+The final model has then be embedded into a Flask app and deployed online at render.com: [Click here to check out the web-version](https://vintage-movie-recommender.onrender.com) - it takes while until the page is loaded. Probably because I am using the free package on render.com.
 
 ## Demonstration Video
 
